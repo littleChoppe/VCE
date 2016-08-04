@@ -1,0 +1,7 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\bin\Release\Chapter2Program1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\bin\Release\Chapter2Program1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\obj\x86\Release\Chapter2Program1.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\obj\x86\Release\Chapter2Program1.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\obj\x86\Release\Chapter2Program1.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\obj\x86\Release\Chapter2Program1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Chapter2Program1\obj\x86\Release\Chapter2Program1.pdb

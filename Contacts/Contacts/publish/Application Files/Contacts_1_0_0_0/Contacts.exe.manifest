@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Contacts.exe" version="1.0.0.0" publicKeyToken="032aa20228790076" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Contacts" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Contacts.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="3.5.1.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Contacts.exe" size="53248">
+      <assemblyIdentity name="Contacts" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>auJlb+nI5BX9xmYkQbwXYZ3Cmjg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ContactDB.sdf" size="86016" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ETTEgbcl3sTZ5ZUg7LKPSu6sjms=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Contacts.exe.config" size="387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nLlCJ4iCnNpFGcrkFYJPEN6qSa4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PC-201608021101\Administrator" issuerKeyHash="2b2f13f52272a9e4b6d83f875dcbd8de5c4d40a0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>SdqEUFezSmsbl/QbkUUwu3/gDNI=</DigestValue></Reference></SignedInfo><SignatureValue>UhoQR4yb9YsaOTxdDnWv6sPDV14TBn6s/EQMOzrl51kXjwLdqkHrLcnYthRG5UR4X6w1hbM4mz//dkX6oSQtdXGClKoFh/OOoYOEQNodLfZPeGxt2+9pfWc6td7kEZyF24Z4t6fvj4n3F06/eLnfUXcl4IX6S9iZWf5KQA+4csM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>z20z0WNvaV4ODdsdldCxt470nB5N3EY5MVfIEEa1G9/GV1oFKf13TItTU8amkM4+/Oraj8z1AZlexKKcB5llXlVf2I/Haq+zxaSp6FE/8MTVGsOF+zOLEbbCtRIZF7Sv1hvTlorT5FwGIDnZ1Zo2ECii4+MoVjmK4phLpN683wk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d20ce07fbb3045911bf4971b6b4ab3575084da49" Description="" Url=""><as:assemblyIdentity name="Contacts.exe" version="1.0.0.0" publicKeyToken="032aa20228790076" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PC-201608021101\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7RJuaiddiSXLcdPhxDv2pCaybnk=</DigestValue></Reference></SignedInfo><SignatureValue>E6Z5EJHt4lg9dT+qf3gRsVzZXetrPl50AlQAXKQfeyWKjR99/TkdYPRGAMbXVAfK58xztrDjbrYOEIlBiBknkRgyly/pR/5R4NO1ukk7DZrIq6WWc9T/ls42ho35k43wHkJ4MEbwevRjrUeGmbYGvtrTat9jsq3IvC7dwFTDPQs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z20z0WNvaV4ODdsdldCxt470nB5N3EY5MVfIEEa1G9/GV1oFKf13TItTU8amkM4+/Oraj8z1AZlexKKcB5llXlVf2I/Haq+zxaSp6FE/8MTVGsOF+zOLEbbCtRIZF7Sv1hvTlorT5FwGIDnZ1Zo2ECii4+MoVjmK4phLpN683wk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQGeK0RV2mc45M+Mwq/ul1yzANBgkqhkiG9w0BAQUFADBFMUMwQQYDVQQDHjoAUABDAC0AMgAwADEANgAwADgAMAAyADEAMQAwADEAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTE2MDgwMzE0NDQxMloXDTE3MDgwMzIwNDQxMlowRTFDMEEGA1UEAx46AFAAQwAtADIAMAAxADYAMAA4ADAAMgAxADEAMAAxAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAz20z0WNvaV4ODdsdldCxt470nB5N3EY5MVfIEEa1G9/GV1oFKf13TItTU8amkM4+/Oraj8z1AZlexKKcB5llXlVf2I/Haq+zxaSp6FE/8MTVGsOF+zOLEbbCtRIZF7Sv1hvTlorT5FwGIDnZ1Zo2ECii4+MoVjmK4phLpN683wkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAuqM8ogsHTosMpFlBhFRjX4oosqpdbI0FXHY5d5HY1tO8TuvqCF1bphsgHE1hWZAN2IkcFFNPxjOvh8FlpVIost6H+r7dY+9WCDA6k674rUrpg+PsnBe5kgnKjj7kGwbQUaX/xGAT/CFb7s75rjPqkNXJypvmefggcHTgIsJrlgg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

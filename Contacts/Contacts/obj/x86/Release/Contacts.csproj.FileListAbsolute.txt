@@ -1,0 +1,21 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\bin\Release\Contacts.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\bin\Release\Contacts.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\obj\x86\Release\Contacts.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\obj\x86\Release\Contacts.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Contacts\obj\x86\Release\Contacts.pdb
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.exe
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.pdb
+D:\Programme\GitHub\VCE\Contacts\Contacts\bin\Release\ContactDB.sdf
+D:\Programme\GitHub\VCE\Contacts\Contacts\bin\Release\Contacts.exe.config
+D:\Programme\GitHub\VCE\Contacts\Contacts\bin\Release\Contacts.exe
+D:\Programme\GitHub\VCE\Contacts\Contacts\bin\Release\Contacts.pdb
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.Form1.resources
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\Contacts\Contacts\bin\Release\Contacts.exe.manifest
+D:\Programme\GitHub\VCE\Contacts\Contacts\bin\Release\Contacts.application
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.exe.manifest
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.application
+D:\Programme\GitHub\VCE\Contacts\Contacts\obj\x86\Release\Contacts.csprojResolveAssemblyReference.cache
