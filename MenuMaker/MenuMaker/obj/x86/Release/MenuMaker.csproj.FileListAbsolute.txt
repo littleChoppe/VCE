@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\bin\Release\MenuMaker.exe
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\bin\Release\MenuMaker.pdb
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\obj\x86\Release\MenuMaker.Form1.resources
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\obj\x86\Release\MenuMaker.Properties.Resources.resources
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\obj\x86\Release\MenuMaker.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\obj\x86\Release\MenuMaker.exe
+D:\Programme\GitHub\VCE\MenuMaker\MenuMaker\obj\x86\Release\MenuMaker.pdb

@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\bin\Debug\Hit the keys.exe
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\bin\Debug\Hit the keys.pdb
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Debug\Hit_the_keys.Form1.resources
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Debug\Hit_the_keys.Properties.Resources.resources
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Debug\Hit the keys.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Debug\Hit the keys.exe
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Debug\Hit the keys.pdb

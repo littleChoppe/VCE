@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\Elephant\Elephant\bin\Release\Elephant.exe
+D:\Programme\GitHub\VCE\Elephant\Elephant\bin\Release\Elephant.pdb
+D:\Programme\GitHub\VCE\Elephant\Elephant\obj\x86\Release\Elephant.Form1.resources
+D:\Programme\GitHub\VCE\Elephant\Elephant\obj\x86\Release\Elephant.Properties.Resources.resources
+D:\Programme\GitHub\VCE\Elephant\Elephant\obj\x86\Release\Elephant.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\Elephant\Elephant\obj\x86\Release\Elephant.exe
+D:\Programme\GitHub\VCE\Elephant\Elephant\obj\x86\Release\Elephant.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\bin\Release\Hit the keys.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\bin\Release\Hit the keys.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\obj\x86\Release\Hit_the_keys.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\obj\x86\Release\Hit_the_keys.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\obj\x86\Release\Hit the keys.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\obj\x86\Release\Hit the keys.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Hit the keys\obj\x86\Release\Hit the keys.pdb
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Release\Hit the keys.exe
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Release\Hit the keys.pdb
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\bin\Release\Hit the keys.exe
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\bin\Release\Hit the keys.pdb
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Release\Hit_the_keys.Form1.resources
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Release\Hit_the_keys.Properties.Resources.resources
+D:\Programme\GitHub\VCE\Hit the keys\Hit the keys\obj\x86\Release\Hit the keys.csproj.GenerateResource.Cache

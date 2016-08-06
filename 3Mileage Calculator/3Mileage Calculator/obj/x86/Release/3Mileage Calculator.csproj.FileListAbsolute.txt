@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\bin\Release\3Mileage Calculator.exe
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\bin\Release\3Mileage Calculator.pdb
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\obj\x86\Release\Mileage_Calculator.Form1.resources
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\obj\x86\Release\Mileage_Calculator.Properties.Resources.resources
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\obj\x86\Release\3Mileage Calculator.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\obj\x86\Release\3Mileage Calculator.exe
+D:\Programme\GitHub\VCE\3Mileage Calculator\3Mileage Calculator\obj\x86\Release\3Mileage Calculator.pdb
