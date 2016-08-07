@@ -1,0 +1,8 @@
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\bin\Release\DinnerParty.exe
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\bin\Release\DinnerParty.pdb
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\obj\x86\Release\DinnerParty.Form1.resources
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\obj\x86\Release\DinnerParty.Properties.Resources.resources
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\obj\x86\Release\DinnerParty.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\obj\x86\Release\DinnerParty.exe
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\obj\x86\Release\DinnerParty.pdb
+D:\Programme\GitHub\VCE\DinnerParty\DinnerParty\obj\x86\Release\DinnerParty.csprojResolveAssemblyReference.cache

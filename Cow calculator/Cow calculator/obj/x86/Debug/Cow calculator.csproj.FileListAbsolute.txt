@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\bin\Debug\Cow calculator.exe
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\bin\Debug\Cow calculator.pdb
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\obj\x86\Debug\Farmer.Form1.resources
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\obj\x86\Debug\Farmer.Properties.Resources.resources
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\obj\x86\Debug\Cow calculator.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\obj\x86\Debug\Cow calculator.exe
+D:\Programme\GitHub\VCE\Cow calculator\Cow calculator\obj\x86\Debug\Cow calculator.pdb
