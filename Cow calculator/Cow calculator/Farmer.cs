@@ -8,7 +8,7 @@ namespace Farmer
 {
     class Farmer
     {
-        //这里为什么不需要后备字段？
+        //编译器自动为这个自动属性添加一个私有字段
         public int BagsOfFeed { get; private set; }
 
         private int feedMultiplier;

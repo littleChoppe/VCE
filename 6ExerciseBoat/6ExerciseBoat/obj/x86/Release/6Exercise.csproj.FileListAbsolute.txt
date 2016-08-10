@@ -1,0 +1,4 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\6Exercise\bin\Release\6Exercise.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\6Exercise\bin\Release\6Exercise.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\6Exercise\obj\x86\Release\6Exercise.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\6Exercise\obj\x86\Release\6Exercise.pdb
