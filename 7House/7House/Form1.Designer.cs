@@ -39,6 +39,7 @@
             this.description.Location = new System.Drawing.Point(13, 13);
             this.description.Multiline = true;
             this.description.Name = "description";
+            this.description.ReadOnly = true;
             this.description.Size = new System.Drawing.Size(333, 225);
             this.description.TabIndex = 0;
             // 
@@ -81,6 +82,8 @@
             this.Controls.Add(this.goThroughTheDoor);
             this.Controls.Add(this.goHere);
             this.Controls.Add(this.description);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Explore the House";
             this.ResumeLayout(false);

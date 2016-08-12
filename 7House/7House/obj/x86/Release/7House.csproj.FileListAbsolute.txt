@@ -5,3 +5,4 @@ D:\Programme\GitHub\VCE\7House\7House\obj\x86\Release\_7House.Properties.Resourc
 D:\Programme\GitHub\VCE\7House\7House\obj\x86\Release\7House.csproj.GenerateResource.Cache
 D:\Programme\GitHub\VCE\7House\7House\obj\x86\Release\7House.exe
 D:\Programme\GitHub\VCE\7House\7House\obj\x86\Release\7House.pdb
+D:\Programme\GitHub\VCE\7House\7House\obj\x86\Release\7House.csprojResolveAssemblyReference.cache
