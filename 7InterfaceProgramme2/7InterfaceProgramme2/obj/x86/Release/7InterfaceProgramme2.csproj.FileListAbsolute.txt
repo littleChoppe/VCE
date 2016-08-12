@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\obj\x86\Release\_7InterfaceProgramme2.Form1.resources
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\obj\x86\Release\_7InterfaceProgramme2.Properties.Resources.resources
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\obj\x86\Release\7InterfaceProgramme2.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\bin\Release\7InterfaceProgramme2.exe
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\bin\Release\7InterfaceProgramme2.pdb
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\obj\x86\Release\7InterfaceProgramme2.exe
+D:\Programme\GitHub\VCE\7InterfaceProgramme2\7InterfaceProgramme2\obj\x86\Release\7InterfaceProgramme2.pdb

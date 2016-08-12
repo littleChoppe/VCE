@@ -1,0 +1,2 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\obj\x86\Debug\_7Programme1.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\obj\x86\Debug\7Programme1.csproj.GenerateResource.Cache

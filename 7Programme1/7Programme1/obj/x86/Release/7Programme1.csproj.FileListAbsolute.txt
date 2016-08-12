@@ -1,0 +1,8 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\obj\x86\Release\_7Programme1.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\obj\x86\Release\7Programme1.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\bin\Release\7Programme1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\bin\Release\7Programme1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\obj\x86\Release\7Programme1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\7Programme1\obj\x86\Release\7Programme1.pdb
+D:\Programme\GitHub\VCE\7Programme1\7Programme1\obj\x86\Release\7Programme1.exe
+D:\Programme\GitHub\VCE\7Programme1\7Programme1\obj\x86\Release\7Programme1.pdb

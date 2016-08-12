@@ -18,7 +18,7 @@ namespace _6OrganizeParty
         {
             this.fancyDecorations = fancyDecorations;
             this.NumberOfPeople = numberOfPeople;
-            CalculateCostOfDecorations(fancyDecorations);
+//            CalculateCostOfDecorations(fancyDecorations);
         }
 
         public virtual int NumberOfPeople

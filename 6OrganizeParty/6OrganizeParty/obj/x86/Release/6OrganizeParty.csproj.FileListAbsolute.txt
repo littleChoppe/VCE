@@ -1,0 +1,8 @@
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\bin\Release\6OrganizeParty.exe
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\bin\Release\6OrganizeParty.pdb
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\obj\x86\Release\6OrganizeParty.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\obj\x86\Release\_6OrganizeParty.Form1.resources
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\obj\x86\Release\_6OrganizeParty.Properties.Resources.resources
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\obj\x86\Release\6OrganizeParty.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\obj\x86\Release\6OrganizeParty.exe
+D:\Programme\GitHub\VCE\6OrganizeParty\6OrganizeParty\obj\x86\Release\6OrganizeParty.pdb
