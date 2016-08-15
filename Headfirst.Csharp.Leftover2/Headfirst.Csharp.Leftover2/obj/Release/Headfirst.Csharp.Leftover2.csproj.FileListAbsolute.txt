@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\Headfirst.Csharp.Leftover2\bin\Release\Headfirst.Csharp.Leftover2.dll
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\Headfirst.Csharp.Leftover2\bin\Release\Headfirst.Csharp.Leftover2.pdb
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\Headfirst.Csharp.Leftover2\obj\Release\Headfirst.Csharp.Leftover2.dll
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\Headfirst.Csharp.Leftover2\obj\Release\Headfirst.Csharp.Leftover2.pdb

@@ -39,6 +39,9 @@ namespace _7Hide_and_Seek
             ResetGame(false);
         }
 
+        /// <summary>
+        /// 初始化各个房间以及房子的格局
+        /// </summary>
         private void CreateObject()
         {
             livingRoom = new RoomWithDoor("Living Room", "an antique carpet", "inside the closet", "an oak door with a brass knob");
@@ -74,6 +77,10 @@ namespace _7Hide_and_Seek
             backYard.DoorLocation = kitchen;
         }
 
+        /// <summary>
+        ///找到人后显示胜利窗口并重新绘制窗口使其可以重新开始躲藏 
+        /// </summary>
+        /// <param name="displayMessage"></param>
         private void ResetGame(bool displayMessage)
         {
             if (displayMessage)
@@ -91,6 +98,10 @@ namespace _7Hide_and_Seek
             exits.Visible = false;
         }
 
+        /// <summary>
+        /// 进入另一个房间，并增加步数，显示下一个房间的信息
+        /// </summary>
+        /// <param name="newLocation"></param>
         private void MoveToANewLocation(Location newLocation)
         {
             Moves++;
@@ -98,6 +109,9 @@ namespace _7Hide_and_Seek
             RedrawForm();
         }
 
+        /// <summary>
+        /// 显示当前房间的信息并显示当前步数，如果当前房间有藏身的地方，显示检查按钮，如果有门，显示走出按钮
+        /// </summary>
         private void RedrawForm()
         {
             exits.Items.Clear();
@@ -124,17 +138,32 @@ namespace _7Hide_and_Seek
                 goThroughTheDoor.Visible = false;
         }
 
+        /// <summary>
+        /// 点击按钮，移动到选择的地方
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void goHere_Click(object sender, EventArgs e)
         {
             MoveToANewLocation(currentLocation.Exits[exits.SelectedIndex]);
         }
 
+        /// <summary>
+        /// 点击按钮，移动到有门连通的另一边
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void goThroughTheDoor_Click(object sender, EventArgs e)
         {
             IHasExteriorDoor hasDoor = currentLocation as IHasExteriorDoor;
             MoveToANewLocation(hasDoor.DoorLocation);
         }
 
+        /// <summary>
+        /// 点击按钮，检查藏身地方，增加步数，如果有人则弹出结束游戏的窗口，如果没人，更新窗口显示的步数
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void check_Click(object sender, EventArgs e)
         {
             Moves++;
@@ -144,6 +173,11 @@ namespace _7Hide_and_Seek
                 RedrawForm();
         }
 
+        /// <summary>
+        /// 点击躲避按钮，隐藏此按钮，数10下，每数一下，人就移动一下，然后显示房间信息
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void hide_Click(object sender, EventArgs e)
         {
             hide.Visible = false;

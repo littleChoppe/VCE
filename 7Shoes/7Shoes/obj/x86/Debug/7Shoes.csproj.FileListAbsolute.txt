@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\7Shoes\7Shoes\bin\Debug\7Shoes.exe
+D:\Programme\GitHub\VCE\7Shoes\7Shoes\bin\Debug\7Shoes.pdb
+D:\Programme\GitHub\VCE\7Shoes\7Shoes\obj\x86\Debug\7Shoes.exe
+D:\Programme\GitHub\VCE\7Shoes\7Shoes\obj\x86\Debug\7Shoes.pdb

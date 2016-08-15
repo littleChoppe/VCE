@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\7CardSort\7CardSort\bin\Release\7CardSort.exe
+D:\Programme\GitHub\VCE\7CardSort\7CardSort\bin\Release\7CardSort.pdb
+D:\Programme\GitHub\VCE\7CardSort\7CardSort\obj\x86\Release\7CardSort.exe
+D:\Programme\GitHub\VCE\7CardSort\7CardSort\obj\x86\Release\7CardSort.pdb

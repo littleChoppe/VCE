@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\Card\Card\bin\Release\Card.exe
+D:\Programme\GitHub\VCE\Card\Card\bin\Release\Card.pdb
+D:\Programme\GitHub\VCE\Card\Card\obj\x86\Release\Card.Form1.resources
+D:\Programme\GitHub\VCE\Card\Card\obj\x86\Release\Card.Properties.Resources.resources
+D:\Programme\GitHub\VCE\Card\Card\obj\x86\Release\Card.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\Card\Card\obj\x86\Release\Card.exe
+D:\Programme\GitHub\VCE\Card\Card\obj\x86\Release\Card.pdb

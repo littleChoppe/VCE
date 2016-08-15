@@ -15,6 +15,9 @@ namespace _7Hide_and_Seek
             random = new Random();
         }
 
+        /// <summary>
+        /// 移动到可以藏身的地方
+        /// </summary>
         public void Move()
         {
             if (myLocation is IHasExteriorDoor)
@@ -33,6 +36,11 @@ namespace _7Hide_and_Seek
             }
         }
 
+        /// <summary>
+        /// 检查藏身地方与检查的地方一致不，若一致返回真
+        /// </summary>
+        /// <param name="locationToCheck"></param>
+        /// <returns>boolS</returns>
         public bool Check(Location locationToCheck)
         {
             if (locationToCheck != myLocation)

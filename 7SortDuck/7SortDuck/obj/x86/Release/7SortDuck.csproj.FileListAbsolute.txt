@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\7SortDuck\7SortDuck\bin\Release\7SortDuck.exe
+D:\Programme\GitHub\VCE\7SortDuck\7SortDuck\bin\Release\7SortDuck.pdb
+D:\Programme\GitHub\VCE\7SortDuck\7SortDuck\obj\x86\Release\7SortDuck.exe
+D:\Programme\GitHub\VCE\7SortDuck\7SortDuck\obj\x86\Release\7SortDuck.pdb

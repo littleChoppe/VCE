@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\bin\Debug\MyProgram.exe
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\bin\Debug\MyProgram.pdb
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\bin\Debug\Headfirst.Csharp.Leftover2.dll
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\bin\Debug\Headfirst.Csharp.Leftover2.pdb
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\obj\x86\Debug\MyProgram.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\obj\x86\Debug\MyProgram.exe
+D:\Programme\GitHub\VCE\Headfirst.Csharp.Leftover2\MyProgram\obj\x86\Debug\MyProgram.pdb
