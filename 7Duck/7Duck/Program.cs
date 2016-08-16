@@ -20,6 +20,9 @@ namespace _7Duck
             };
             ducks.Sort();
             Console.ReadKey();
+
+            foreach (Duck duck in ducks)
+                Console.WriteLine(duck);
         }
     }
 }

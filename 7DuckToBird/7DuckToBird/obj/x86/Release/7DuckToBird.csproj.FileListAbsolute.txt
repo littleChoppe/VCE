@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\7DuckToBird\7DuckToBird\bin\Release\7DuckToBird.exe
+D:\Programme\GitHub\VCE\7DuckToBird\7DuckToBird\bin\Release\7DuckToBird.pdb
+D:\Programme\GitHub\VCE\7DuckToBird\7DuckToBird\obj\x86\Release\7DuckToBird.exe
+D:\Programme\GitHub\VCE\7DuckToBird\7DuckToBird\obj\x86\Release\7DuckToBird.pdb

@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\bin\Release\7Canteen.exe
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\bin\Release\7Canteen.pdb
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\obj\x86\Release\_7Canteen.Form1.resources
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\obj\x86\Release\_7Canteen.Properties.Resources.resources
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\obj\x86\Release\7Canteen.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\obj\x86\Release\7Canteen.exe
+D:\Programme\GitHub\VCE\7Canteen\7Canteen\obj\x86\Release\7Canteen.pdb

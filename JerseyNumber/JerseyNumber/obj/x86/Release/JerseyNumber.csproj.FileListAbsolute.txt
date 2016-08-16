@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\bin\Release\JerseyNumber.exe
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\bin\Release\JerseyNumber.pdb
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\obj\x86\Release\JerseyNumber.Form1.resources
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\obj\x86\Release\JerseyNumber.Properties.Resources.resources
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\obj\x86\Release\JerseyNumber.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\obj\x86\Release\JerseyNumber.exe
+D:\Programme\GitHub\VCE\JerseyNumber\JerseyNumber\obj\x86\Release\JerseyNumber.pdb

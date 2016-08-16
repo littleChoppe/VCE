@@ -27,5 +27,11 @@ namespace _7Duck
             else
                 return 0;
         }
+
+        public override string ToString()
+        {
+            Size++;
+            return base.ToString();
+        }
     }
 }

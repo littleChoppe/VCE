@@ -2,3 +2,4 @@ D:\Programme\GitHub\VCE\7Duck\7Duck\bin\Debug\7Duck.exe
 D:\Programme\GitHub\VCE\7Duck\7Duck\bin\Debug\7Duck.pdb
 D:\Programme\GitHub\VCE\7Duck\7Duck\obj\x86\Debug\7Duck.exe
 D:\Programme\GitHub\VCE\7Duck\7Duck\obj\x86\Debug\7Duck.pdb
+D:\Programme\GitHub\VCE\7Duck\7Duck\obj\x86\Debug\7Duck.csprojResolveAssemblyReference.cache
