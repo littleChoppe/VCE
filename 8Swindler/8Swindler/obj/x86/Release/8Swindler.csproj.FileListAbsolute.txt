@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\8Swindler\8Swindler\bin\Release\8Swindler.exe
+D:\Programme\GitHub\VCE\8Swindler\8Swindler\bin\Release\8Swindler.pdb
+D:\Programme\GitHub\VCE\8Swindler\8Swindler\obj\x86\Release\8Swindler.exe
+D:\Programme\GitHub\VCE\8Swindler\8Swindler\obj\x86\Release\8Swindler.pdb
