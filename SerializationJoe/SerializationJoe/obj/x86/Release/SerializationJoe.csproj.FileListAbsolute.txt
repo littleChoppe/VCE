@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\bin\Release\SerializationJoe.exe
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\bin\Release\SerializationJoe.pdb
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\obj\x86\Release\SerializationJoe.Form1.resources
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\obj\x86\Release\SerializationJoe.Properties.Resources.resources
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\obj\x86\Release\SerializationJoe.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\obj\x86\Release\SerializationJoe.exe
+D:\Programme\GitHub\VCE\SerializationJoe\SerializationJoe\obj\x86\Release\SerializationJoe.pdb

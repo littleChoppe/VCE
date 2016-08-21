@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\9WriteAndReadDeck\9WriteAndReadDeck\bin\Release\9WriteAndReadDeck.exe
+D:\Programme\GitHub\VCE\9WriteAndReadDeck\9WriteAndReadDeck\bin\Release\9WriteAndReadDeck.pdb
+D:\Programme\GitHub\VCE\9WriteAndReadDeck\9WriteAndReadDeck\obj\x86\Release\9WriteAndReadDeck.exe
+D:\Programme\GitHub\VCE\9WriteAndReadDeck\9WriteAndReadDeck\obj\x86\Release\9WriteAndReadDeck.pdb
