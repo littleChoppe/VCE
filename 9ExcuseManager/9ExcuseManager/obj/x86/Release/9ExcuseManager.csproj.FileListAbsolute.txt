@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\bin\Release\9ExcuseManager.exe
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\bin\Release\9ExcuseManager.pdb
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\obj\x86\Release\_9ExcuseManager.Form1.resources
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\obj\x86\Release\_9ExcuseManager.Properties.Resources.resources
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\obj\x86\Release\9ExcuseManager.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\obj\x86\Release\9ExcuseManager.exe
+D:\Programme\GitHub\VCE\9ExcuseManager\9ExcuseManager\obj\x86\Release\9ExcuseManager.pdb

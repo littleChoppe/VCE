@@ -47,7 +47,6 @@ namespace _8Swindler
             writer.WriteLine("Can you help us?");
             writer.Close();
             reader.Close();
-            
         }
     }
 }
