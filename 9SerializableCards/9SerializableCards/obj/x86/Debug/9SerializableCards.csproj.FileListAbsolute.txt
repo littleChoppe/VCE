@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\bin\Debug\9SerializableCards.exe
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\bin\Debug\9SerializableCards.pdb
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\obj\x86\Debug\SerializableCards.Form1.resources
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\obj\x86\Debug\SerializableCards.Properties.Resources.resources
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\obj\x86\Debug\9SerializableCards.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\obj\x86\Debug\9SerializableCards.exe
+D:\Programme\GitHub\VCE\9SerializableCards\9SerializableCards\obj\x86\Debug\9SerializableCards.pdb
