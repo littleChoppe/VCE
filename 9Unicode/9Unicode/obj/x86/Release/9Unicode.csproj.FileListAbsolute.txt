@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\bin\Release\9Unicode.exe
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\bin\Release\9Unicode.pdb
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\obj\x86\Release\Unicode.Form1.resources
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\obj\x86\Release\Unicode.Properties.Resources.resources
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\obj\x86\Release\9Unicode.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\obj\x86\Release\9Unicode.exe
+D:\Programme\GitHub\VCE\9Unicode\9Unicode\obj\x86\Release\9Unicode.pdb

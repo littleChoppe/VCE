@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\9hexdumper\9hexdumper\bin\Debug\9hexdumper.exe
+D:\Programme\GitHub\VCE\9hexdumper\9hexdumper\bin\Debug\9hexdumper.pdb
+D:\Programme\GitHub\VCE\9hexdumper\9hexdumper\obj\x86\Debug\9hexdumper.exe
+D:\Programme\GitHub\VCE\9hexdumper\9hexdumper\obj\x86\Debug\9hexdumper.pdb

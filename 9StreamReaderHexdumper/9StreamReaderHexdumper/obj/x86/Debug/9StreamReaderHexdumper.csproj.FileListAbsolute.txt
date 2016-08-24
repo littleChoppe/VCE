@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\9StreamReaderHexdumper\9StreamReaderHexdumper\bin\Debug\9StreamReaderHexdumper.exe
+D:\Programme\GitHub\VCE\9StreamReaderHexdumper\9StreamReaderHexdumper\bin\Debug\9StreamReaderHexdumper.pdb
+D:\Programme\GitHub\VCE\9StreamReaderHexdumper\9StreamReaderHexdumper\obj\x86\Debug\9StreamReaderHexdumper.exe
+D:\Programme\GitHub\VCE\9StreamReaderHexdumper\9StreamReaderHexdumper\obj\x86\Debug\9StreamReaderHexdumper.pdb

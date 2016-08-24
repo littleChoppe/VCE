@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\ReadAndWriteCards\ReadAndWriteCards\bin\Release\ReadAndWriteCards.exe
+D:\Programme\GitHub\VCE\ReadAndWriteCards\ReadAndWriteCards\bin\Release\ReadAndWriteCards.pdb
+D:\Programme\GitHub\VCE\ReadAndWriteCards\ReadAndWriteCards\obj\x86\Release\ReadAndWriteCards.exe
+D:\Programme\GitHub\VCE\ReadAndWriteCards\ReadAndWriteCards\obj\x86\Release\ReadAndWriteCards.pdb

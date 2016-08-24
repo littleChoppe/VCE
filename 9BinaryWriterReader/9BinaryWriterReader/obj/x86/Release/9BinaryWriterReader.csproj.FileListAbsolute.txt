@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\bin\Release\9BinaryWriterReader.exe
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\bin\Release\9BinaryWriterReader.pdb
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\obj\x86\Release\BinaryWriterReader.Form1.resources
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\obj\x86\Release\BinaryWriterReader.Properties.Resources.resources
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\obj\x86\Release\9BinaryWriterReader.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\obj\x86\Release\9BinaryWriterReader.exe
+D:\Programme\GitHub\VCE\9BinaryWriterReader\9BinaryWriterReader\obj\x86\Release\9BinaryWriterReader.pdb
