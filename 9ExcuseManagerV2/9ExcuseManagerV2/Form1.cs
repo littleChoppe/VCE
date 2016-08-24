@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
+using System.Runtime.Serialization;
 
 namespace ExcuseManagerV2
 {
@@ -116,18 +117,75 @@ namespace ExcuseManagerV2
                 DialogResult result = openFileDialog1.ShowDialog();
                 if (result == DialogResult.OK)
                 {
-                    currentExcuse = new Excuse(openFileDialog1.FileName);
-                    UpdateForm(false);
+                    bool clearForm = false;
+                    try
+                    {
+                        currentExcuse = new Excuse(openFileDialog1.FileName);
+                        try
+                        {
+                            UpdateForm(false);
+                        }
+                        catch (ArgumentOutOfRangeException)
+                        {
+
+                            MessageBox.Show("The excuse file '" +
+                                openFileDialog1.FileName + "' had a invalid data",
+                                "Unable to open the excuse");
+                            clearForm = true;
+                        }
+                    }
+                    catch (SerializationException ex)
+                    {
+
+                        MessageBox.Show("An error occurred while opening the excuse '" +
+                            openFileDialog1.FileName + "'\n" + ex.Message,
+                            "Unable to open the excuse", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        clearForm = true;
+                    }
+                    finally
+                    {
+                        if (clearForm)
+                        {
+                            description.Text = "";
+                            results.Text = "";
+                            lastUsed.Value = DateTime.Now;
+                        }
+                    }
                 }
             }
         }
 
         private void randomExcuse_Click(object sender, EventArgs e)
         {
-            if (CheckChanged())
+            string[] fileName = Directory.GetFiles(selectedFolder, "*.excuse");
+            if (fileName.Length == 0)
             {
-                currentExcuse = new Excuse(random, selectedFolder);
-                UpdateForm(false);
+                MessageBox.Show("Please specify a folder with excuse files in it",
+                    "No excuse files found");
+            }
+            else
+            {
+                try
+                {
+                    if (CheckChanged())
+                    {
+                        currentExcuse = new Excuse(random, selectedFolder);
+                        //UpdateForm(false); 这个语句无论抛不抛出异常都需要执行
+                    }
+                }
+                catch (SerializationException)
+                {
+                    currentExcuse = new Excuse();
+                    currentExcuse.Description = "";
+                    currentExcuse.Results = "";
+                    currentExcuse.LastUsed = DateTime.Now;
+                    MessageBox.Show("Your excuse file was invalid.",
+                        "Unable to open a random excuse");
+                }
+                finally
+                {
+                    UpdateForm(false);
+                }
             }
         }
 

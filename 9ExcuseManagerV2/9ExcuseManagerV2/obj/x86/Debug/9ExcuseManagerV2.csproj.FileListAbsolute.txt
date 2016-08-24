@@ -5,3 +5,4 @@ D:\Programme\GitHub\VCE\9ExcuseManagerV2\9ExcuseManagerV2\obj\x86\Debug\ExcuseMa
 D:\Programme\GitHub\VCE\9ExcuseManagerV2\9ExcuseManagerV2\obj\x86\Debug\9ExcuseManagerV2.csproj.GenerateResource.Cache
 D:\Programme\GitHub\VCE\9ExcuseManagerV2\9ExcuseManagerV2\obj\x86\Debug\9ExcuseManagerV2.exe
 D:\Programme\GitHub\VCE\9ExcuseManagerV2\9ExcuseManagerV2\obj\x86\Debug\9ExcuseManagerV2.pdb
+D:\Programme\GitHub\VCE\9ExcuseManagerV2\9ExcuseManagerV2\obj\x86\Debug\9ExcuseManagerV2.csprojResolveAssemblyReference.cache
