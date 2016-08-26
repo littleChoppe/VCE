@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\bin\Release\9TestClick.exe
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\bin\Release\9TestClick.pdb
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\obj\x86\Release\TestClick.Form1.resources
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\obj\x86\Release\TestClick.Properties.Resources.resources
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\obj\x86\Release\9TestClick.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\obj\x86\Release\9TestClick.exe
+D:\Programme\GitHub\VCE\9TestClick\9TestClick\obj\x86\Release\9TestClick.pdb

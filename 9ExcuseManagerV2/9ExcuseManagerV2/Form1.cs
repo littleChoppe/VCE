@@ -188,7 +188,5 @@ namespace ExcuseManagerV2
                 }
             }
         }
-
-
     }
 }

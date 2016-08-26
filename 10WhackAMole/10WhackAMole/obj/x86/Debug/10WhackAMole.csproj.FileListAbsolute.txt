@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\bin\Debug\10WhackAMole.exe
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\bin\Debug\10WhackAMole.pdb
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\obj\x86\Debug\WhackAMole.Form1.resources
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\obj\x86\Debug\WhackAMole.Properties.Resources.resources
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\obj\x86\Debug\10WhackAMole.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\obj\x86\Debug\10WhackAMole.exe
+D:\Programme\GitHub\VCE\10WhackAMole\10WhackAMole\obj\x86\Debug\10WhackAMole.pdb

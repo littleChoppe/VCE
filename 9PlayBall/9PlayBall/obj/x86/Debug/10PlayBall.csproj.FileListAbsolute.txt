@@ -1,0 +1,8 @@
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\obj\x86\Debug\9PlayBall.exe
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\obj\x86\Debug\9PlayBall.pdb
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\bin\Debug\9PlayBall.exe
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\bin\Debug\9PlayBall.pdb
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\obj\x86\Debug\10PlayBall.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\obj\x86\Debug\PlayBall.Form1.resources
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\obj\x86\Debug\PlayBall.Properties.Resources.resources
+D:\Programme\GitHub\VCE\9PlayBall\9PlayBall\obj\x86\Debug\10PlayBall.csproj.GenerateResource.Cache
