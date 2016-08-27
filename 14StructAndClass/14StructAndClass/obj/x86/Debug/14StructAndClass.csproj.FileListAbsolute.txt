@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\14StructAndClass\14StructAndClass\bin\Debug\14StructAndClass.exe
+D:\Programme\GitHub\VCE\14StructAndClass\14StructAndClass\bin\Debug\14StructAndClass.pdb
+D:\Programme\GitHub\VCE\14StructAndClass\14StructAndClass\obj\x86\Debug\14StructAndClass.exe
+D:\Programme\GitHub\VCE\14StructAndClass\14StructAndClass\obj\x86\Debug\14StructAndClass.pdb

@@ -1,0 +1,4 @@
+D:\Programme\GitHub\VCE\14DisposeAndGC\14DisposeAndGC\obj\x86\Release\14DisposeAndGC.csprojResolveAssemblyReference.cache
+D:\Programme\GitHub\VCE\14DisposeAndGC\14DisposeAndGC\obj\x86\Release\DisposeAndGC.Form1.resources
+D:\Programme\GitHub\VCE\14DisposeAndGC\14DisposeAndGC\obj\x86\Release\DisposeAndGC.Properties.Resources.resources
+D:\Programme\GitHub\VCE\14DisposeAndGC\14DisposeAndGC\obj\x86\Release\14DisposeAndGC.csproj.GenerateResource.Cache
