@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\14Ref\14Ref\bin\Debug\14Ref.exe
+D:\Programme\GitHub\VCE\14Ref\14Ref\bin\Debug\14Ref.pdb
+D:\Programme\GitHub\VCE\14Ref\14Ref\obj\x86\Debug\Ref.Form1.resources
+D:\Programme\GitHub\VCE\14Ref\14Ref\obj\x86\Debug\Ref.Properties.Resources.resources
+D:\Programme\GitHub\VCE\14Ref\14Ref\obj\x86\Debug\14Ref.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\14Ref\14Ref\obj\x86\Debug\14Ref.exe
+D:\Programme\GitHub\VCE\14Ref\14Ref\obj\x86\Debug\14Ref.pdb

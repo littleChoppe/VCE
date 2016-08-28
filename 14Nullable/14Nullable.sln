@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14Nullable", "14Nullable\14Nullable.csproj", "{FFC42C90-C4D9-437C-9853-F4BEF04E98A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC42C90-C4D9-437C-9853-F4BEF04E98A2}.Debug|x86.ActiveCfg = Debug|x86
+		{FFC42C90-C4D9-437C-9853-F4BEF04E98A2}.Debug|x86.Build.0 = Debug|x86
+		{FFC42C90-C4D9-437C-9853-F4BEF04E98A2}.Release|x86.ActiveCfg = Release|x86
+		{FFC42C90-C4D9-437C-9853-F4BEF04E98A2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
