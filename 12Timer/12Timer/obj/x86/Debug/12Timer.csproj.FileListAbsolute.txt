@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\12Timer\12Timer\bin\Debug\12Timer.exe
+D:\Programme\GitHub\VCE\12Timer\12Timer\bin\Debug\12Timer.pdb
+D:\Programme\GitHub\VCE\12Timer\12Timer\obj\x86\Debug\_12Timer.Form1.resources
+D:\Programme\GitHub\VCE\12Timer\12Timer\obj\x86\Debug\_12Timer.Properties.Resources.resources
+D:\Programme\GitHub\VCE\12Timer\12Timer\obj\x86\Debug\12Timer.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\12Timer\12Timer\obj\x86\Debug\12Timer.exe
+D:\Programme\GitHub\VCE\12Timer\12Timer\obj\x86\Debug\12Timer.pdb

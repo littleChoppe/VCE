@@ -1,0 +1,7 @@
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\obj\x86\Debug\BeeWorld.Form1.resources
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\obj\x86\Debug\BeeWorld.Properties.Resources.resources
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\obj\x86\Debug\12BeeWorld.csproj.GenerateResource.Cache
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\bin\Debug\12BeeWorld.exe
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\bin\Debug\12BeeWorld.pdb
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\obj\x86\Debug\12BeeWorld.exe
+D:\Programme\GitHub\VCE\12BeeWorld\12BeeWorld\obj\x86\Debug\12BeeWorld.pdb
